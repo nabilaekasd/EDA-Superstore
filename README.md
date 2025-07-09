@@ -1,4 +1,4 @@
-# Superstore Sales Analysis (20114-2017)
+# Superstore Sales Analysis (2014-2017)
 This project contains an Exploratory Data Analysis (EDA) of the Superstore dataset from 2014 to 2017. The analysis explores patterns and insights in sales, profit, discount strategy, and regional performance to help inform business decisions.
 
 ## Dataset Overview
