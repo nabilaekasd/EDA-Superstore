@@ -34,8 +34,9 @@ The main goals are to understand:
    - Identifying high- and low-performing geographic regions
 10. **Sub-Category Pareto Analysis (80/20)**
     - Discovering top sub-categories that contribute most to total profit
+   
 ## Presentations
-- Links: https://drive.google.com/file/d/1CIQd6ilRxuisE47C-8MRp3maNijXSuNK/view?usp=drive_link
+Links: https://drive.google.com/file/d/1CIQd6ilRxuisE47C-8MRp3maNijXSuNK/view?usp=drive_link
 
 ## Visualizations
 Sales & Profit Year
