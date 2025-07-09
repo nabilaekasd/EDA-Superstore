@@ -17,23 +17,25 @@ The main goals are to understand:
 1. **Sales & Profit per Year**
    Trend analysis to see overall business performance annually
 2. **Sales & Profit per Month**
-   Seasonality insights and monthly performance fluctuations
+   - Seasonality insights and monthly performance fluctuations
 3. **Total Sales & Profit per Category**
-   Comparison of how each product category contributes to revenue and profit
+   - Comparison of how each product category contributes to revenue and profit
 4. **Average Profit Margin per Category**
-   Evaluating profitability across high-level categories
+   - Evaluating profitability across high-level categories
 5. **Profit Margin per Sub-Category**
-   Deeper insight into which sub-categories are driving or dragging profit
+   - Deeper insight into which sub-categories are driving or dragging profit
 6. **Correlation between Discount & Profit (Pearson)**
-   Quantifying how discounting affects profitability
+   - Quantifying how discounting affects profitability
 7. **Average Profit by Discount Group**
-   Grouping discounts into bins to see which levels are harmful or helpful
+   - Grouping discounts into bins to see which levels are harmful or helpful
 8. **Profit Distribution by Discount Level**
-   Visualizing how different discount levels affect profit spread
+   - Visualizing how different discount levels affect profit spread
 9. **Total Prorfit per Region**
-   Identifying high- and low-performing geographic regions
+   - Identifying high- and low-performing geographic regions
 10. **Sub-Category Pareto Analysis (80/20)**
-    Discovering top sub-categories that contribute most to total profit
+    - Discovering top sub-categories that contribute most to total profit
+## Presentations
+- Links: https://drive.google.com/file/d/1CIQd6ilRxuisE47C-8MRp3maNijXSuNK/view?usp=drive_link
 
 ## Visualizations
 Sales & Profit Year
